@@ -1,0 +1,5 @@
+homepage: "https://gostellar.app"
+documentation: "https://gostellar.app/docs/install-stellar-snippet#gtm-installation"
+versions:
+  - sha: d0011a914bcf9e947f596ffbb0d7c00e9a9a50b5
+    changeNotes: Initial release.
